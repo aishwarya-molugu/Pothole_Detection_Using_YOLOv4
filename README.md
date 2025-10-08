@@ -117,8 +117,3 @@ Pothole detected with confidence: 92%
 * LabelImg Tool: [https://github.com/heartexlabs/labelImg](https://github.com/heartexlabs/labelImg)
 
 ---
-
-
----
-
-Would you like me to **add GitHub-style markdown elements** (badges, table of contents, preview images, etc.) to make it look more professional and visually attractive for your repository?
