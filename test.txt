@@ -1,0 +1,11 @@
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/17.jpg
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/109.jpg
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/122.jpg
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/123.jpg
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/158.jpg
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/121.jpg
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/135.jpg
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/140.jpg
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/155.jpg
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/137.jpg
+/content/gdrive/MyDrive/yolov4mini/darknet/data/piford/203.jpg
